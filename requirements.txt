@@ -1,0 +1,4 @@
+List of required packages:
+    bottle (0.12.8),
+    selenium (2.45.0),
+    Paste (1.7.5.1)
